@@ -6,7 +6,15 @@ Receiving objects: 100% (3/3), 88.40 KiB | 22.10 MiB/s, done.
 
 
 
-sdgdghsduygsdgyusscgsyugadbaudtsagdsvygstysegbfsabfgutsgfutwagfvseugftsaawvf 
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 503 bytes | 167.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/rnn11/versionamento.git
+   43da3db..6c394b1  main -> main
+branch 'main' set up to track 'origin/main'.
 
 
 
