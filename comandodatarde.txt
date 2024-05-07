@@ -7,3 +7,8 @@ Receiving objects: 100% (3/3), 88.40 KiB | 22.10 MiB/s, done.
 
 
 sdgdghsduygsdgyusscgsyugadbaudtsagdsvygstysegbfsabfgutsgfutwagfvseugftsaawvf 
+
+
+
+ 1 file changed, 9 insertions(+)
+ create mode 100644 comandodatarde.txt
